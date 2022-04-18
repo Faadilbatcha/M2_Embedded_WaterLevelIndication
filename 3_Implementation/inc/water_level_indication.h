@@ -1,0 +1,8 @@
+#ifndef WATER_LEVEL_INDICATION_H_INCLUDED
+#define WATER_LEVEL_INDICATION_H_INCLUDED
+
+void USARTInit(uint16_t );
+char USARTReadChar();
+void USARTWriteChar(char );
+
+#endif // WATER_LEVEL_INDICATION_H_INCLUDED
