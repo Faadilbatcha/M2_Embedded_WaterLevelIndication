@@ -1,4 +1,4 @@
-PROJ_NAME=Water_indication_system
+PROJ_NAME=Water_level_indication
 
 TARGET=atmega328
 
