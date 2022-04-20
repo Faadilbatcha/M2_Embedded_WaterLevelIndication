@@ -46,7 +46,7 @@ In our daily life Water plays a vital role. The Availability of water in tank is
 ## Low level requirements:
 | S.no | Low level requirements | Description | Status |
 | :---: | :---: | :---: | ---: |
-| 1 | LR1 | Simulide | done |
+| 1 | LR1 | Simulide | Done |
 | 2 | LR2 | Avr Gcc compiler | Done |
 | 3 | LR3 | LED Indication | Done |
 
