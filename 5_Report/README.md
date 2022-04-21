@@ -1,4 +1,4 @@
-# Introduction:
+# INTRODUCTION:
 In our daily life Water plays a vital role. The Availability of water in tank is one of the important parameter for every Household. If the Water level in tank is too low, Device must turn on the motor. Else if the level reaches high, Device must turn off the Motor. Since Water is the most essential thing, if the level's abnormal It disrupts the daily household chores. So we should maintain the Water level constantly.
 
 # ABSTRACT
@@ -34,7 +34,7 @@ Water level indicators can be used in Hotels, Pools, Factories, fire protection 
 * Used to start and stop water pumps
 * Water level indicator for water tank
 
-# Features:
+# FEATURES:
 1.Detects the Water level in the tank and Manipulate the Motor state with respect to the level with alerting the User via Bluetooth module.
 
 2.Available in low cost and in smaller sizes.
@@ -89,10 +89,10 @@ Water level indicators can be used in Hotels, Pools, Factories, fire protection 
 # FLOW CHART - Water Level Indication
 ![image](https://user-images.githubusercontent.com/101641134/164177036-d3daba76-939e-4fba-b47a-41acf9dbf3d6.png)
 
-# Simulation Circuit
+# SIMULATION CIRCUIT - Water Level Indication
 ![image](https://user-images.githubusercontent.com/101641134/163779150-7d473f7b-c36c-4fea-bb80-73889ebd1bfb.png)
 
-# Test Plans
+# TEST PLANS
 
 | **Test ID** | **Description** | **Input** | **Output** | **Status** |
 | --- | --- | --- | --- | --- |
