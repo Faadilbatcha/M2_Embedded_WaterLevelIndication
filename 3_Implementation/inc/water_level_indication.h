@@ -2,7 +2,6 @@
  * @file water_level_indication.h
  * @author Faadil Batcha
  * @brief Header file for Water Level Indication with Ultrasonic & Bluetooth sensor operations
- *
  */
 
 #ifndef WATER_LEVEL_INDICATION_H_INCLUDED
