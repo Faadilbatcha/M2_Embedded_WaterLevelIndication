@@ -1,4 +1,12 @@
-/*
+/**
+ * @file main.c
+ * @author Faadil Batcha
+ * @brief 
+ * @version 0.1
+ * @date 2021-04-18
+ * 
+ * @copyright Copyright (c) 2022
+ * 
  */
 
 #include <avr/io.h>
