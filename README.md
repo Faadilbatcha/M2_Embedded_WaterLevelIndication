@@ -4,3 +4,5 @@
 # Badges
 * Build CI - Linux
 [![Build CI - LINUX](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml)
+* Analysis 
+[![Analysis](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml)
