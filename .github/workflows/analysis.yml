@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Analysis
 
 on:
   push:
@@ -13,9 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
-    - name: configure
-      run: ./configure
-      
-    - name: Install dependencies
-      run: make
+    - name: Install
+      run: sudo apt-get install cppcheck
+    - name: analyse
+      run: cppcheck --enable=all 3_Implementation
