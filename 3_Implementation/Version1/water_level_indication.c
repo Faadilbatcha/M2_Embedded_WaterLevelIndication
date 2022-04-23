@@ -1,3 +1,21 @@
+#ifndef UBRR0L
+#define UBRR0L UBRRL
+#define UBRR0H UBRRH
+#define UCSR0A UCSRA
+#define UCSR0B UCSRB
+#define UCSR0C UCSRC
+#define UCSR0A UCSRA
+#define UDRE0  UDRE
+#define UDR0   UDR
+#define RXC0   RXC
+#define TXC0   TXC
+#define RXCIE0 RXCIE
+#define RXEN0  RXEN
+#define TXEN0  TXEN
+#define UCSZ00 UCSZ0
+#define UDRIE0 UDRIE
+#endif
+
 #include <avr/io.h>
 #include <util/delay.h>
 
