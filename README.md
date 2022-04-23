@@ -3,6 +3,7 @@
 
 # Badges
 * Build CI - Linux
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f888024a3ea44bb5bf90027fa470573d)](https://app.codacy.com/gh/Faadilbatcha/M2_Embedded_WaterLevelIndication?utm_source=github.com&utm_medium=referral&utm_content=Faadilbatcha/M2_Embedded_WaterLevelIndication&utm_campaign=Badge_Grade_Settings)
 [![Build CI - LINUX](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml)
 * Analysis 
 [![Analysis](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml)
