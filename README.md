@@ -6,3 +6,5 @@
 [![Build CI - LINUX](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/c-cpp.yml)
 * Analysis 
 [![Analysis](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/analysis.yml)
+* Build CI - Windows
+[![Build CI - Windows](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/windows%20c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M2_Embedded_WaterLevelIndication/actions/workflows/windows%20c-cpp.yml)
