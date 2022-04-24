@@ -101,3 +101,7 @@ Water level indicators can be used in Hotels, Pools, Factories, fire protection 
 | TID\_03 | Low Level | A | Turn Motor On, Send Alert | PASS |
 | TID\_04 | High Level | B | Turn Motor Off, Send Alert | PASS |
 | TID\_06 | Display | Levels | Process states & Message Alerts | PASS |
+
+# INSTRUCTION SET :
+- Low level-A -  Motor is ON, Send Alert . 
+- High level-B -  Motor is OFF, Send Alert .
