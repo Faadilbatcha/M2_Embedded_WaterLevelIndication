@@ -41,7 +41,8 @@ In our daily life Water plays a vital role. The Availability of water in tank is
 | :---:| :---: | :---: | ---: |
 | 1 | HLR1 |  Atmega328 | Done |
 | 2 | HLR2 | Sensor | Done |
-| 3 | HLR3 | Alert system | Done |
+| 3 | HLR3 | UART | Done |
+| 4 | HLR4 | Timer | Done |
 
 ## Low level requirements:
 | S.no | Low level requirements | Description | Status |
@@ -49,6 +50,7 @@ In our daily life Water plays a vital role. The Availability of water in tank is
 | 1 | LR1 | Simulide | Done |
 | 2 | LR2 | Avr Gcc compiler | Done |
 | 3 | LR3 | LED Indication | Done |
+| 4 | LR4 | Alert System | Done |
 
 
 
